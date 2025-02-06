@@ -1,8 +1,8 @@
-## Bem-vindo(a) ao meu perfil 
+## Bem-vindo(a) ao meu perfil rayssavianar
 
  <div>
    <a href="https://github.com/rayssavianar">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayssavianaro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayssavianar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayssavianar&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
